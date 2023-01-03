@@ -1,0 +1,7 @@
+*.mp4
+*.avi
+*.pth
+*.model
+__pycache__/
+*.pyc
+

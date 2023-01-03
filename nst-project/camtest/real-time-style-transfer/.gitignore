@@ -1,0 +1,19 @@
+# Virtual Environment
+.env/
+.env/*
+
+# Mac
+*.DS_Store*
+
+# Temps
+*.swp
+tmp/
+
+# Python
+__pycache__/
+*.pyc
+
+# Xcode JUNK
+xcuserdatad/
+xcuserdata/
+xcshareddata/
